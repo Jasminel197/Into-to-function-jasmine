@@ -1,0 +1,11 @@
+name = "Inaya"
+bill = input("How much was the bill")
+print(bill)
+
+bill =int(input("How much was the bill"))
+print(bill)
+
+if bill == 10:
+    print("Match")
+else:
+    print("No Match")
